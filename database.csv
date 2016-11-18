@@ -1,0 +1,50 @@
+System,Country,Gauge,Notes
+National Network,Canada,standard,
+National Network,Botswana,3foot,
+Empresa de Ferrocarriles Ecuatorianos,Ecuador,3foot,
+National Network,India,indian,
+Keio Line,Japan,scotch,
+Toei Shinjuku Line,Japan,scotch,
+Toden Arakawa Line,Japan,scotch,
+Tokyu Setagaya Line,Japan,scotch,
+Hakodate City Tram,Japan,scotch,
+Zig Zag Railway,Australia,kyoki,
+Pichi Richi Railway,Australia,kyoki,
+National Network,Costa Rica,kyoki,Most lines inactive
+Talinn Tram,Estonia,kyoki,
+National Network,Ghana,kyoki,Undergoing upgrades
+Saint-Marc Line,Haiti,kyoki,defunct
+National Network,Finland,russian,Actually uses the imperial standard of 5ft
+Narvik Connector,Norway,russian,Connector to Finland and Russia
+Haparanda Freight Yard,Sweden,russian,Only used to exchange cargo with Finnish trains
+Duquesne Incline,United States,russian
+Monongahela Incline,United States,russian
+National Network,Afghanistan,russian,Northern Networks only. Indian gauge proposed for Central and Southern networks.
+National Network,Armenia,russian,
+National Network,Azerbaijan,russian,
+National Network,Belarus,russian,
+National Network,Estonia,russian,
+National Network,Georgia,russian,
+Varna Ferries,Bulgaria,russian,Dual gauge track for changing to standard
+Sassnitz/Mukran Ferries,Germany,russian,
+Peak Tram,Hong Kong,russian,
+National Network,Kazakhstan,russian,
+National Network,Kyrgyzstan,russian,
+National Network,Latvia,russian,
+National Network,Lithuania,russian,
+National Network,Moldova,russian,
+National Network,Mongolia,russian,
+National Network,North Korea,russian,32km stretch between Tumangang and Rajin
+Hrubieszów–Sławków Line,Poland,russian,
+National Network,Russia,russian,
+Border lines,Slovakia,russian,Širokorozchodná trať and Dobrá pri Čiernej nad Tisou to Ukraine only.
+National Network,Tajikistan,russian,Mostly in the West. Indian gauge proposed for East.
+National Network,Turkmenistan,russian,
+National Network,Ukraine,russian,
+National Network,Uzbekistan,russian,
+National Network,Australia,irish,Parts of South Australia,NSW,Tasmania and Victoria. About 10% of the network.
+National Network,Brazil,irish,Lines connecting Rio de Janeiro / São Paulo / Minas Gerais / Pará / Maranhão / Mato Grosso / Mato Grosso do Sul states. Used in older Metro systems.Irish gauge is considered the standard by ABNT.
+National Network,Ireland,irish,
+Regional Network,Northern Ireland,irish,Entire network of 330km.
+National Network,Portugal,iberian,Mostly mainland
+National Network,Spain,iberian,Except new highspeed rail lines / Lleida-La Pobla de Segur line and Barcelona Metro Line 1.
